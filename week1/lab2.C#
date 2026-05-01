@@ -1,5 +1,0 @@
-Using system;
-int main(){
-    Console.Write("ABCDEFG");
-    Console.Readkey();
-}
